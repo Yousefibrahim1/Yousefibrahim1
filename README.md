@@ -17,6 +17,7 @@ Hands-on practice with offensive/defensive tools and log monitoring.
 Tracking my cybersecurity learning through hands-on rooms in TryHackMe.  
 Includes stats, notable completions, and dashboard screenshots.  
 🔗 [View Repository](https://github.com/Yousefibrahim1/tryhackme-progress)
+
 ---
 
 ## 📜 Resume
