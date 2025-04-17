@@ -21,7 +21,7 @@ Includes stats, notable completions, and dashboard screenshots.
 ---
 
 ## 📜 Resume
-- [View PDF Resume](https://github.com/Yousefibrahim1/resume/blob/main/Resume-Yousef-Ibrahim.pdf)  
+- [View PDF Resume](https://github.com/Yousefibrahim1/resume/blob/main/CV-Yousef-Ibrahim.pdf)  
 - Built using LaTeX
 
 ---
