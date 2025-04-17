@@ -7,11 +7,18 @@
 ---
 
 ## 🔒 Cybersecurity Projects
-- 🔧 **Homelab Setup** – Virtual machines w/ Kali Linux, Metasploitable, DVWA + Graylog monitoring
-🔗 [View Repository](https://github.com/Yousefibrahim1/cybersecurity-homelab)
-- 🧠 **TryHackMe Modules Completed** – Cyber Defense Frameworks, Cryptography, Compromising Active Directory, Endpoint Security Monitoring, Network Security, Metasploit, Splunk 1 and 2
-🔗 [View Repository](https://github.com/Yousefibrahim1/tryhackme-progress)
 
+### 🛡️ Cybersecurity Homelab
+A multi-VM virtual lab using Kali Linux, DVWA, Metasploitable, and Graylog.  
+Hands-on practice with offensive/defensive tools and log monitoring.  
+🔗 [View Repository](https://github.com/Yousefibrahim1/cybersecurity-homelab)
+
+---
+
+### 🧠 TryHackMe Progress
+Tracking my cybersecurity learning through hands-on rooms in TryHackMe.  
+Includes stats, notable completions, and dashboard screenshots.  
+🔗 [View Repository](https://github.com/Yousefibrahim1/tryhackme-progress)
 ---
 
 ## 📜 Resume
