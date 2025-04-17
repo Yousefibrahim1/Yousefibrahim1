@@ -13,8 +13,6 @@ A multi-VM virtual lab using Kali Linux, DVWA, Metasploitable, and Graylog.
 Hands-on practice with offensive/defensive tools and log monitoring.  
 🔗 [View Repository](https://github.com/Yousefibrahim1/cybersecurity-homelab)
 
----
-
 ### 🧠 TryHackMe Progress
 Tracking my cybersecurity learning through hands-on rooms in TryHackMe.  
 Includes stats, notable completions, and dashboard screenshots.  
